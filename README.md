@@ -2,6 +2,13 @@
 
 *Project for Experiential Reflections on Technology*
 
+## NOTE!
+
+This project repository has been integrated into the Hexagram30 suite of
+projects at the following location:
+
+* https://github.com/hexagram30/client
+
 ## Background
 
 I have an open source project called [Hexagram30](https://github.com/hexagram30) the purpose of which is to create the many components necessary to support any number of multi-user, on-line text-based adventure games such as the classic MUDs and MUSHes but with the modern capabilities of distributed systems, high-availability, and fault-tolerance. Much of the work done to date has focused on the ability to connect to a remote session, to store data in specific formats, to generate maps, track time, and use procedural weather data to generate biomes automatically for new worlds.
